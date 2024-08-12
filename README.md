@@ -1,5 +1,7 @@
 **Welcome!**
-https://placehold.it/150/ffffff/ff0000?text=My name is Joe
+'''html
+  //<strong style="color: blue;">My name is Joe</strong>
+'''
 -And this is my Github Repository
 -Feel free to explore and thanks for stopping by!
 
