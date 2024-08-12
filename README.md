@@ -1,5 +1,7 @@
-- 👋 Hi, my name is Joe! Welcome to my github repository!
-- 🌱 I’m currently learning Computer Science at the University of Notre Dame
+**Welcome!**
+<strong style="color: blue;">My name is Joe</strong>
+And this is my Github Repository
+Feel free to explore and thanks for stopping by!
 
 <!---
 JoeWhelps/JoeWhelps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
