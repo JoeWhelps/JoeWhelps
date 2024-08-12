@@ -1,9 +1,9 @@
-**Welcome!**
-'''html
-  //<strong style="color: blue;">My name is Joe</strong>
-'''
--And this is my Github Repository
--Feel free to explore and thanks for stopping by!
+***Welcome!***
+
+<strong style="color: purple;">My name is Joe</strong>
+
+- And this is my Github Repository
+- Feel free to explore and thanks for stopping by!
 
 <!---
 JoeWhelps/JoeWhelps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
