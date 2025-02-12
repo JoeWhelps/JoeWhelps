@@ -2,6 +2,8 @@
 ## My name is _Joe_ and I am a Computer Science student at the University of Notre Dame
 This is my Github Repository with my various personal projects
 
+[Here](https://joewhelps.github.io/JW-website/) is my website where you can learn much more about me
+https://joewhelps.github.io/JW-website/
 #### _Feel free to explore and thanks for stopping by!_
 
 
